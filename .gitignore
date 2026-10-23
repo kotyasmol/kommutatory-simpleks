@@ -1,0 +1,21 @@
+# Временные файлы офисных программ
+~$*
+.~lock.*
+*.tmp
+*.bak
+
+# Локальные настройки и кэши
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+
+# Локальные переменные окружения
+.env
+.env.*
